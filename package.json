@@ -1,0 +1,12 @@
+{
+  "name": "user-to-guess-the-number-using-nodejs",
+  "version": "1.0.0",
+  "description": "A command-line number guessing game built with Node.js",
+  "main": "game.js",
+  "scripts": {
+    "start": "node game.js"
+  },
+  "keywords": ["nodejs", "game", "guessing", "cli"],
+  "author": "",
+  "license": "MIT"
+}
